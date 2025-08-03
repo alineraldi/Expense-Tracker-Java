@@ -2,6 +2,8 @@
 
 A simple command-line application in Java for tracking personal expenses. This program allows users to manage their finances by adding, updating, and deleting expenses, as well as viewing summaries of their spending.
 
+This is a project idea from <a href="https://roadmap.sh/projects/expense-tracker">BackEnd Projects on Roadmaps.sh</a>. 
+
 ---
 
 ## Features
